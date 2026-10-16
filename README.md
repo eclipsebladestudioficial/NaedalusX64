@@ -1,6 +1,6 @@
-# DaedalusX64Noib
+# NaedalusX64
 
-DaedalusX64Noib is a Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms. The PSP port is noteworthy for being the fastest N64 emulator ever on the platform, achieving close to or even full speed in many titles.
+NaedalusX64 is a Nintendo 64 emulator for Linux and PSP, with plans to port to Windows, Mac, PS Vita among other platforms. The PSP port is noteworthy for being the fastest N64 emulator ever on the platform, achieving close to or even full speed in many titles.
 
 This is an unofficial PS2 port originally made by **belek666**.
 
