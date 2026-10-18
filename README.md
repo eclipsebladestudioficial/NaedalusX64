@@ -11,6 +11,7 @@ I have resumed development of this PS2 version with the goal of fixing bugs, imp
 - Still under development.
 - Distorted graphics in some games.
 - Some games may not work or may exhibit serious issues.
+- exFAT Support.
 - Among other aspects...
 
 ## Compatibility List
