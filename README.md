@@ -236,7 +236,7 @@ ROMs should be placed in a directory named `Roms` or `N64`.
 
 ## More Information
 
-For details on compatibility, optimal settings, and other information about the emulator, join the official Discord server to chat with other users and Daedalus developers.
+For details on compatibility, optimal settings, and other information about the emulator, join the official Discord server to chat with other users and NaedalusX64 developers.
 
 Invite link: https://discord.gg/A9kxHSZWSX
 
