@@ -70,7 +70,7 @@ Compatibily List NaedalusX64 October/17/2026.
 
 🟢 Diddy Kong racing: It runs well with few bugs, averaging 20–30 fps.
 
-🟢 Super Smash Bros: It runs at 60 fps with frequent fluctuations.
+🟢 Super Smash Bros: When there are 2 fighters, the frame rate is 40-60fps, but with 3 or 4 it drops below 30.
 
 🟢 Mythology Sub-Zero: There are no major graphics visible in the logos—only in the HUD and the character sprites.
 
@@ -128,8 +128,6 @@ All minigames are now playable.
 🟡 Majora's Mask: In small areas it runs at 12–15 fps; in the open world, it runs at 10 fps.
 
 🟡 Star Wars: Shadows of the Empire: Runs at a rate of 15–20 fps; apparently free of graphical bugs.
-
-🟡 Super Smash Bros: It runs at 30 to 60 fps with two players; performance may drop with more players.
 
 🟡 Conker Bad Fur Day: It opens with a certain speed—kind of good, kind of bad.
 
