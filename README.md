@@ -31,9 +31,9 @@ Compatibily List NaedalusX64 October/17/2026.
 
 ⚪ Mario 64
 
-⚪ Star fox 64(com quedas de fps poucas)
+⚪ Star fox 64 (With few FPS drops)
 
-⚪ Banjo Kazooie(com algumas quedas pequenas)
+⚪ Banjo Kazooie (With a few small drops)
 
 ⚪ Glover
 
@@ -55,181 +55,176 @@ Compatibily List NaedalusX64 October/17/2026.
 ## 🟢 Playable
 
 
-🟢 Chameleon Twist: roda com uma taxa de quadros excelente. Mas não saibo ser tem muitos bugs
+🟢 Chameleon Twist: It runs with an excellent frame rate. But I’m not sure if it has many bugs.
 
 
-🟢Buster a move 2: roda bem e com  menos erros gráficos(mas ainda tem uma quantidade razoável)
+🟢 Buster a move 2: It runs well and with fewer graphical errors (though there’s still a fair number of them).
 
 
-🟢Quake 1: Quase perfeito e com poucos bugs gráficos
+🟢 Quake 1: Almost perfect and with few graphical bugs
 
-🟢magical tetris challenge: ta rodano full speed, mas tem uns bugs nas cutscenes e em alguns menus.
+🟢 Magical Tetris Challenge: It’s running at full speed, but there are some bugs in the cutscenes and in a few menus.
 
-🟢 Gex64: Roda Full speed 30fps com quedas leves.Mesmo com som raramente cai mais que nos 20.Raros bugs gráficos (uma ou outra cor estranha na água).
+🟢 Gex64: Runs at full speed (30fps) with slight drops. Even with sound enabled, it rarely dips below 20fps. There are occasional, minor graphical glitches (such as an odd color appearing in the water).
 
-🟢 Diddy Kong racing: roda bem com poucos bugs, roda em média 20-30 fps
+🟢 Diddy Kong racing: It runs well with few bugs, averaging 20–30 fps.
 
-🟢Super Smash Bros: roda a 60 fps com muitas oscilações. 
+🟢 Super Smash Bros: It runs at 60 fps with frequent fluctuations.
 
-🟢 Mythology Sub-Zero: Não tem nenhum big gráfico aparente nas logos, somentes na hud e nos sprits dos personagens
+🟢 Mythology Sub-Zero: There are no major graphics visible in the logos—only in the HUD and the character sprites.
 
-🟢Duke Nukem: Zero Hour fica entre 70/100% da velocidade, Erros gráficos aparentemente inexistente
+🟢 Duke Nukem: Zero Hour runs at between 70% and 100% of full speed; graphical errors are apparently non-existent.
 
-🟢Rocket robot on Wheels:Performance quase Full speed 20-30 FPS.Em alguns pontos bem específicos pode cair pra 17, mas tende mais aos 30.Quase nenhum bug gráfico exceto uma sujeira na área de overscan que aparece ece vez ou outra.
+🟢 Rocket robot on Wheels: Performance is nearly full speed, at 20–30 FPS. In a few very specific spots, it might drop to 17, but it generally stays closer to 30. There are almost no graphical bugs, aside from some artifacts in the overscan area that appear from time to time.
 
-🟢Megaman 64: possue poucos bugs gráficos, no mundo aberto ele roda entre 20-25 fps, nas dungeons e praticamente fullspeed.
+🟢 Megaman 64: It has few graphical bugs; in the open world, it runs at 20–25 fps, while in dungeons, it runs at practically full speed.
 
- 🟢 Penny racers: tá rodando decente(20-25fps).O único bug visual que eu vi foi o velocímetro no hud que tem a fonte meio riscada.
+🟢 Penny racers: It’s running decently (20–25 fps). The only visual bug I’ve seen is the speedometer in the HUD, which has a font that looks a bit scratched or streaky.
 
 
-🟢 Wipeout 64: Roda quase Full speed, fica nos 25fps com pouca oscilação.Letras do hud são um pouco buggadas.Som é meio sujo, mas não sei se é assim no original
+🟢 Wipeout 64: It runs at near full speed, staying at 25fps with very little fluctuation. The HUD text is a bit glitchy. The sound is somewhat distorted, though I’m not sure if it’s like that in the original.
 
-🟢 Spiderman 2000: agora entra nas fasesOs únicos bugs presentes são de áudio e na tela de START, a velocidade fica entre 70 a 100%
+🟢 Spiderman 2000: Now it enters the stages. The only bugs present are related to audio and the START screen; the speed fluctuates between 70% and 100%.
 
-🟢 Pokémon Stadium 1: Roda quase fullspeed com algumas oscilações.Algumas imagens de menus buggadas, certos pokémons (+-30%) com texturas buggadas sempre ou momentaneamente.
-Todos minigames rodam agr.
+🟢 Pokémon Stadium 1: It runs at near full speed, with some fluctuations. Some menu visuals are glitched, and certain Pokémon (about 30%) have textures that are either permanently or intermittently glitched.
+All minigames are now playable.
 
-🟢 Lamborghini: roda com uma boa velocidade mas não a fullspeed constantemente e pode apresentar uma mínima lentidão.
+🟢 Lamborghini: It runs at a good speed, though not consistently at full speed, and may occasionally exhibit slight sluggishness.
 
-🟢 Tony Hawk's Pro Skater: Quase perfeito , com uma certa oscilações 20-30 fps e possue bugs gráficos pequenos
+🟢 Tony Hawk's Pro Skater: Almost perfect, with some fluctuations (20–30 fps) and minor graphical bugs.
 
-🟢 Rakuga kids: tá com as texturas meio bugados, mas o fps tá Full speed
+🟢 Rakuga kids: The textures are a bit glitchy, but the FPS is running at full speed.
 
-🟢 Gex 3: poucos bugs gráficos, performance boa 15/30. As vezes 20-25.
+🟢 Gex 3: Few graphical bugs, good performance: 15–30 fps. Sometimes 20–25.
 
 
 ## 🟡 In-game+
 
-🟡 Mario Kart 64: taxa de quadros ruim, muitas falhas visuais
+🟡 Mario Kart 64: Poor frame rate, many visual glitches.
 
-🟡 Ocarina of Time: inicia com falhas visuais e uma taxa de quadros ruim
+🟡 Ocarina of Time: It starts off with visual glitches and a poor frame rate.
 
-🟡  GoldenEye 007: inicia e funciona e sem muitas falhas gráficas mais com uma taxa de fps bem variável 
+🟡 GoldenEye 007: It starts up and runs without many graphical glitches, but the frame rate is quite inconsistent.
 
-🟡 Jet Force Gemini: falhas gráficas graves, taxa de quadros decente
+🟡 Jet Force Gemini: Serious graphical glitches, decent frame rate.
 
-🟡 Body haverst: taxa de quadros estável entre 10-20 fps com alguns bugs gráficos.
+🟡 Body Haverst: Stable frame rate between 10–20 fps, with some graphical bugs.
 
-🟡start Soldier: trava no menu mas pode funciona
+🟡 Start Soldier: It freezes in the menu, but it might still work.
 
-🟡Mário party 1,Parece rodar a uns 20-30fps,é jogável.Na cutscene inicial roda a uns 15.Não testei a parte do tabuleiro
+🟡 Mario Party 1: It seems to run at around 20–30 fps; it’s playable. During the opening cutscene, it runs at about 15. I haven’t tested the board game section.
 
-🟡Pokemon Stadium 2: ele roda 20 a 30 fps, mas às vezes tem ainda uma quantidade moderada de bugs gráficos, texturas esquisitas em certas arenas, pokémons ou efeitos.
+🟡 Pokemon Stadium 2: It runs at 20 to 30 fps, but there’s still a moderate number of graphical bugs at times—odd textures in certain arenas, or issues with Pokémon or effects.
 
-🟡supermen 64(uma grade merda): roda a 20-25FPS sem som,15-20 com. Parece jogável.
+🟡 Superman 64: It runs at 20–25 FPS without sound, and 15–20 with sound. Seems playable.
 
-🟡 Hydro Thunder 64: Roda em média a 15 FPS tendo quedas a 12 em áreas abertas com outros veículos, sobe para 20 FPS em áreas estreitas.Ativar o áudio aparentemente não funciona, usa o áudio não tira performance
+🟡 Hydro Thunder 64: It runs at an average of 15 FPS, dropping to 12 in open areas with other vehicles present, and rises to 20 FPS in narrow areas. Enabling audio apparently doesn't work; using audio does not impact performance.
 
-🟡 cruis'n word: roda a fullspeed nos menus, na gameplay fica variando entre 12 a 20 fps. Não foi testado com audio
+🟡 Cruis'n Word: Runs at full speed in the menus; during gameplay, it fluctuates between 12 and 20 fps. Not tested with audio.
 
-🟡 Silicon Valley: tá Full Speed agora mas possui bugs gráficos
+🟡 Silicon Valley: It’s running at full speed now, but it has graphical bugs.
 
-🟡 Majora's Mask: em áreas pequenas ele roda 12-15 fps, no mundo aberto ele roda 10fps
+🟡 Majora's Mask: In small areas it runs at 12–15 fps; in the open world, it runs at 10 fps.
 
-🟡 Star Wars: Shadows of the Empire: roda a uma taxa de 15-20 fps, 
-Aparentemente sem bugs gráficos
+🟡 Star Wars: Shadows of the Empire: Runs at a rate of 15–20 fps; apparently free of graphical bugs.
 
-🟡Super Smash Bros: roda entre 30 a 60 fps com dois plays, o desempenho pode cair com mas plays
+🟡 Super Smash Bros: It runs at 30 to 60 fps with two players; performance may drop with more players.
 
-🟡 Conker Bad Fur Day: abre com uma certa velocidade boa/meio ruin
+🟡 Conker Bad Fur Day: It opens with a certain speed—kind of good, kind of bad.
 
-🟡Hot Wheels Turbo Racing: Framerate varia entre 16-35fps com som de acordo com o trajeto da pista.Parece um pouco lento a sensação, imagino pq o framecap seja a 60.
+🟡 Hot Wheels Turbo Racing: The framerate fluctuates between 16–35 fps, with audio that varies depending on the track layout. It feels a bit sluggish; I imagine this is because the frame cap is set to 60.
 
-🟡 Yoshi's Story:abriu e roda Full speed a 60 FPS, mas tá com o cenário e personagens bugados.Usar a opção update texture corrige o cenário, mas não os personagens. Mesma cena sem e com fix de textura nas fotos.
+🟡 Yoshi's Story: It opens and runs at full speed at 60 FPS, but the environment and characters are glitched. Using the "update texture" option fixes the environment, but not the characters.
 
-🟡Bomberman Hero: Roda 80-100% nas cutscene e +-60% na gameplay, depende da fase, tem uma pequena sensação de lentidão, eu acho que fica melhor ativando o frameskip.Poucos bugs gráficos(transparência e textura erradas em certos personagens).
+🟡 Bomberman Hero: It runs at 80–100% speed during cutscenes and around 60% during gameplay, depending on the level; there’s a slight sense of sluggishness, which I find improves when frame skipping is enabled. There are a few graphical bugs (issues with transparency and incorrect textures on certain characters).
 
-🟡 Perfect Dark: o jogo ta rodando a 17-18 fps com quedas quando aparece um inimigo.
+🟡 Perfect Dark: The game is running at 17–18 fps, with drops whenever an enemy appears.
 
-🟡 Mario Party 2: Funciona Full Speed com queda de FPS ao trocar de tela, apresenta problemas de renderização de imagem
+🟡 Mario Party 2: Runs at full speed, but experiences FPS drops when switching screens; presents image rendering issues.
 
-🟡 Extreme-G:Tá rodando decente(50-70%)+-15-21fps, poucos bugs gráficos(um efeito errado na title screen e na seleção de veículo, e algumas explosões cinzas sem cor)
+🟡 Extreme-G: It’s running decently (50–70%) at around 15–21 fps, with few graphical bugs (an incorrect effect on the title screen and vehicle selection screen, and some gray, colorless explosions).
 
-🟡 Harvest Moon 64 : Quase perfeito , mas com bug na caixa de diálogos.
+🟡 Harvest Moon 64 : Almost perfect, but there’s a bug in the dialog boxes.
 
-🟡Mortal Kombat 4: Funciona com slowdown leve, há bugs gráficos nos personagens como flicker, o menu de pausa está invisível e o áudio apresenta gargalos
+🟡 Mortal Kombat 4: It runs with slight slowdown, there are graphical bugs with the characters—such as flickering—, the pause menu is invisible, and the audio stutters.
 
-🟡 Batman do futuro: Roda entre 80/100% (eu especulo, já q saporra tá bugada também)
-Alguns gliths gráficos (piscando)
-E os diálogos raramente aparecem
+🟡 Batman Beyond: It runs at about 80–100% (that’s my guess, since this piece of crap is buggy too). There are some graphical glitches (flickering), and the dialogue rarely shows up.
 
-🟡 army Man sarge heroes 1: roda a uns 20-28 fps, lentidão e bugs gráficos
+🟡 Army Man Sarge Heroes 1: It runs at around 20–28 fps, with sluggishness and graphical bugs.
 
-🟡Harvest Moon 64: roda a fullspeed mas as caixas de diálogos estão vazias
+🟡 Harvest Moon 64: It runs at full speed, but the dialog boxes are empty.
 
-🟡Donald Duck goin' Quackers: roda lento
+🟡 Donald Duck goin' Quackers: Runs slowly.
 
-🟡 Bust a move 99: Roda Full speed praticamente, mas ainda tem bugs visuais(nem a opção texture update faz diferença)
+🟡 Bust a Move 99: It runs at practically full speed, but there are still visual bugs (even the "texture update" option makes no difference).
 
-🟡Kirby64: taxa de quadros decente.  Trava no primeiro boss
+🟡 Kirby64: Decent frame rate. Freezes at the first boss.
 
-🟡Rayman 2:Roda meio lento em 25-20 fps, tem uma quantia meio exagerada de stuttering e poucos bugs gráficos.
+🟡 Rayman 2: It runs somewhat slowly at 20–25 fps, features an excessive amount of stuttering, and has a few graphical bugs.
 
 
 
 
 ## 🟠 In-game-
 
-🟠 FIFA 99: Funciona com falhas gráficas muito
+🟠 FIFA 99: It runs with significant graphical glitches.
 
-🟠 Beetle Adventure Racing!: bem lento e com bugs gráficos. 
+🟠 Beetle Adventure Racing!: Very slow and with graphical bugs.
 
-🟠 Knockout kings 2000: funciona mas com alguns bugs mas possou uma taxa de quadros ruim
+🟠 Knockout kings 2000: It works, but it has some bugs and a poor frame rate.
 
-🟠 Mortal kombat trilogy: roda bem lento e com alguns bugs visuais
+🟠 Mortal Kombat Trilogy: It runs quite slowly and has some visual bugs.
 
-🟠 Quake II: abre mas a uma taxa de quadros ruim, muitos bugs gráficos e com um input lag absurdo
+🟠 Quake II: It opens, but with a poor frame rate, many graphical bugs, and absurd input lag.
 
-🟠banjo Tooie:roda extremamente lento demais um fps praticamente, injogavel
+🟠 Banjo Tooie: It runs extremely slowly—practically one frame per second—making it unplayable.
 
-🟠ready 2 Rumble round 2 tá com as logos e seleção de personagens fudida, além de rodar lento.
+🟠 Ready 2 Rumble: Round 2 has a messed-up logo and character selection screen, plus it runs slowly.
 
-🟠 Hybrid heaven(usa)
-Roda half speed ,15fps, na maior parte do tempo, poucos bugs gráficos.O pouco que eu joguei parece funcionar normal.
+🟠 Hybrid Heaven(USA): It runs at half speed—15fps—most of the time, with few graphical bugs. From the little I’ve played, it seems to work fine.
 
-🟠 missão impossível: aparentemente sem glitchs (fora o FPS sumir em uma parte da cutscene)
-Lento pra carai
+🟠 Mission: Impossible: Apparently no glitches. Slow as hell.
 
-🟠 Donkey Kong 64: está rodando bem até, mas está sem colisões e as cutscenes precisam ser desabilitadas para conseguir "jogar".
+🟠 Donkey Kong 64: It’s running reasonably well, but there are no collisions, and the cutscenes need to be disabled in order to actually "play" it.
 
 
-## 🔴 crash
+## 🔴 Crash
 
-🔴vigilante 8: abre porem muito bugado e crasha ao chegar na gameplay
+🔴 Vigilante 8: It opens, but it’s very buggy and crashes once you reach the actual gameplay.
 
-🔴 Paper Mario: não inicia
+🔴 Paper Mario: it doesn't start.
 
-🔴 Castlevania: não inicia
+🔴 Castlevania: it doesn't start.
 
-🔴 South Park: travamento em "variables identified 12%"
+🔴 South Park: Stuck at "variables identified 12%".
 
-🔴 Shadow Man: Travamento na tela de título inicial
+🔴 Shadow Man: Freezing at the initial title screen.
 
-🔴Star Wars: Rogue Squadron:trava
+🔴 Star Wars: Rogue Squadron: Freezes.
 
-🔴cruis'n 64: abre mas trava após a logo da Nintendo
+🔴 Cruis'n 64: It opens but freezes after the Nintendo logo.
 
-🔴Castlevania: travou.
+🔴 Castlevania: Freezes.
 
-🔴Mischief Makers: travar na tela de start
+🔴 Mischief Makers: Getting stuck on the start screen.
 
-🔴 Dr. Mario: trava na tela de seleção de modo 
+🔴 Dr. Mario: It gets stuck on the mode selection screen.
 
-🔴 Resident evil 2:deu tela preta
+🔴 Resident Evil 2: Black Screen.
 
-🔴 Beast Wars: fica sem bugs gráficos e roda perfeito até a seleção de personagem
+🔴 Beast Wars: It’s free of graphical bugs and runs perfectly up until the character selection screen.
 
- 🔴Clay Fighter Sculptor's Cut: entrou mais travou na hora de iniciar a luta
+ 🔴Clay Fighter Sculptor's Cut: It loaded, but then froze right when the fight was about to start.
 
-🔴 Ogre Battle 64_ Person of Lordly Caliber:passou da logo do N64 e deu tela preta
+🔴 Ogre Battle 64: Person of Lordly Caliber: It got past the N64 logo and then went to a black screen.
 
-🔴 blast corps: da tela preta e trava após a logo da RARE
+🔴 Blast Corps: It goes to a black screen and freezes after the RARE logo.
 
-🔴Mystical ninja trava depois de pular a cutscene ou deixar ela terminar
+🔴 Mystical Ninja: It freezes after skipping the cutscene or letting it finish.
 
-🔴 Duck dodgers: trava nos 44%
+🔴 Duck dodgers: Stuck at "variables identified 44%".
 
-🔴 Turok 2 crasha em Variables Identified 12%.
+🔴 Turok 2: Stuck at "variables identified 12%".
 
 ## How to Use
 
