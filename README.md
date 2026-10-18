@@ -1,3 +1,6 @@
+### Not all of the emulator code that is in the release is present here yet. Be patient.
+
+
 # NaedalusX64
 
 NaedalusX64 is a Nintendo 64 emulator for the PlayStation 2, based on DaedalusX64.
