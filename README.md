@@ -37,7 +37,7 @@ Compatibily List NaedalusX64 October/17/2026.
 
 ⚪ Star fox 64 (With few FPS drops)
 
-⚪ Banjo Kazooie (With a few small drops)
+⚪ Banjo Kazooie (EU) (With a few small drops)
 
 ⚪ Glover
 
